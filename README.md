@@ -29,6 +29,8 @@ O projeto é meu próprio portfólio.
 ### Analise crítica:
 Implementar validação do formulário através do Javascript.
 
+![Mockup_Portfolio_v2-1_](https://user-images.githubusercontent.com/81717487/177430132-9da9b82f-7451-40d5-90d3-f9869b4a6937.jpg)
+
 ## [Demo](https://alexcamposwd.netlify.app/)
 
 ### License/Licença do Projeto
